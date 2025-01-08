@@ -1,4 +1,6 @@
-# Harvard_TinyMLx Arduino Library
+# IISc Edge AI Arduino Library
+
+This library is based on https://github.com/tinyMLx/arduino-library
 
 Source code and examples for using and testing your Tiny Machine Learning Kit and Shield.
 
